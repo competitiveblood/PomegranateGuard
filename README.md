@@ -28,7 +28,7 @@ The model used in this project is an InceptionV3 CNN, fine-tuned to classify pom
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/competitiveblood/PomegranateGuard.git
+   git clone (https://github.com/competitiveblood/PomegranateGuard.git)
    cd pomegranate_disease_detection-main
 
 2. **Create and activate a virtual environment:**
