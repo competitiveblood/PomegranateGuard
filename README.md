@@ -48,4 +48,3 @@ export FLASK_APP=app.py
 export FLASK_ENV=development
 flask run
 ```
-**The application will be running at http://127.0.0.1:5000.**
